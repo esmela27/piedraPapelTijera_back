@@ -1,0 +1,7 @@
+# .gitignore
+bin/
+obj/
+.vscode/
+*.user
+*.suo
+*.userprefs
